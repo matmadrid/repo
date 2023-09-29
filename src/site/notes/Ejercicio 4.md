@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ejercicio 4/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ejercicio-4/","noteIcon":""}
 ---
 
 
