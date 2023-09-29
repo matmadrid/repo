@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Solución 2/","noteIcon":""}
+{"dg-publish":true,"permalink":"/solucion-2/","noteIcon":""}
 ---
 
 **Descomposición en Fracciones Parciales**
