@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/algebra-superior/"}
+{"dg-publish":true,"permalink":"/Álgebra Superior/","noteIcon":""}
 ---
 
 Las fracciones parciales son una técnica de descomposición utilizada en matemáticas para expresar una fracción compleja (una fracción en la que el denominador es un polinomio de mayor grado que el numerador) como una suma de fracciones más simples. Esto se hace descomponiendo el denominador en una suma de polinomios más simples, y luego expresando la fracción original como una suma de fracciones con denominadores más simples.
