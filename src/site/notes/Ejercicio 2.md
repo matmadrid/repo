@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ejercicio 2/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ejercicio-2/","noteIcon":""}
 ---
 
 Encontrar las fracciones parciales de: 
