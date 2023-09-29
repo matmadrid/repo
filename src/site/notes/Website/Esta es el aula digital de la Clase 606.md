@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Website/Esta es el aula digital de la Clase 606/","noteIcon":""}
+{"dg-publish":true,"permalink":"/website/esta-es-el-aula-digital-de-la-clase-606/","noteIcon":""}
 ---
 
 [[Álgebra Superior\|Álgebra Superior]]
