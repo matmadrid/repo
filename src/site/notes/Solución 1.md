@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solucion-1/"}
+{"dg-publish":true,"permalink":"/Solución 1/","noteIcon":""}
 ---
 
 **Resolución de Fracciones Parciales**
