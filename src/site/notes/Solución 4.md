@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Solución 4/","noteIcon":""}
+{"dg-publish":true,"permalink":"/solucion-4/","noteIcon":""}
 ---
 
 
